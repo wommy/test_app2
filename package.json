@@ -1,0 +1,19 @@
+{
+  "name": "test_app2",
+  "version": "1.0.0",
+  "description": "tryna get webpack and react to play",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "wommyt",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.17.0",
+    "html-webpack-plugin": "^1.6.1",
+    "node-libs-browser": "^0.5.2",
+    "style-loader": "^0.12.3",
+    "webpack": "^1.12.1",
+    "webpack-dev-server": "^1.10.1"
+  }
+}
